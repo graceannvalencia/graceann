@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio with Buttons</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .bio-container {
+            display: flex;
+            align-items: center;
+        }
+        .bio-container img {
+            border-radius: 50%;
+            margin-right: 20px;
+        }
+        .bio-container div {
+            max-width: 600px;
+        }
+        .buttons {
+            margin-top: 16px;
+        }
+        .buttons button {
+            margin-right: 10px;
+            padding: 10px 20px;
+            font-size: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="bio-container">
+        <img src= "https://scontent.fmnl4-6.fna.fbcdn.net/v/t39.30808-6/449097057_122126522354283719_2529526450400571455_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHypg8A-1NlRsDBpX7_xhYbfQWqpOayIY99Baqk5rIhj26WrOvn6Q9cY53ObceHUcIXVlqm8--eSUYNVJW4_Rgp&_nc_ohc=vrLIHPl9xdgQ7kNvgH8kqjz&_nc_ht=scontent.fmnl4-6.fna&oh=00_AYCt_cF-r8KY6KVDntgyz-BbALwxtz_kak73OwaXtkW4iw&oe=66D9E15D" style="width:130px;"
+        <div>
+            <h1 align=center> BIO DATA </h1>
+            <h2>PERSONAL INFORMATION</h2>
+               NAME: GRACE ANN R. VALENCIA<br>
+               AGE: 19<br>
+               ADDRESS: San Benito, Lipa City<br>
+               SUBJECT: DC 101-Web Development<br>
+               INSTRUCTOR: Sir. Eugene Fortunado<br>
+            <h3>DESCRIPTION</h3>
+               I AM GRACE ANN VALENCIA TAKING BACHELOR OF SCIENCE IN COMPUTER SCIENCE IN KOLEHIYO NG LUNGSOD NG LIPA. IT IS JUST A CODE, HARD BUT WILLING TO LEARN. I WILL APPLY THIS IN MY FUTURE CAREER THAT LEDS ME INTO SUCCESSFULL ONE.<br><hr>
+
+        </div>
+    </div>
+    <div class="buttons">
+        <button onclick="window.open('https://htmlpreview.github.io/?https://github.com/graceannvalencia/graceann/blob/63abf96c80bab6136d94169fb8e3aa3b9d589395/index.html')">Open Lyrics in New Tab</button>
+        <button onclick="window.location.href= <https://htmlpreview.github.io/?https://github.com/graceannvalencia/graceann/blob/63abf96c80bab6136d94169fb8e3aa3b9d589395/index.html>" >Open Lyrics in Same Tab</button>
+        <button onclick="window.open('https://htmlpreview.github.io/?https://github.com/graceannvalencia/graceann/blob/63abf96c80bab6136d94169fb8e3aa3b9d589395/index.html')">Open Lyrics in Full Screen</button>
+       
+    </div>
+</body>
+</html>
