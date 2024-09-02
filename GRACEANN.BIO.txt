@@ -35,6 +35,7 @@
     <div class="bio-container">
         <img src= "https://scontent.fmnl4-6.fna.fbcdn.net/v/t39.30808-6/449097057_122126522354283719_2529526450400571455_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHypg8A-1NlRsDBpX7_xhYbfQWqpOayIY99Baqk5rIhj26WrOvn6Q9cY53ObceHUcIXVlqm8--eSUYNVJW4_Rgp&_nc_ohc=vrLIHPl9xdgQ7kNvgH8kqjz&_nc_ht=scontent.fmnl4-6.fna&oh=00_AYCt_cF-r8KY6KVDntgyz-BbALwxtz_kak73OwaXtkW4iw&oe=66D9E15D" style="width:130px;"
         <div>
+           <center>
             <h1 align=center> BIO DATA </h1>
             <h2>PERSONAL INFORMATION</h2>
                NAME: GRACE ANN R. VALENCIA<br>
